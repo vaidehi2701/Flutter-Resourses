@@ -45,6 +45,9 @@ Explore a comprehensive collection of Flutter resources! Here you'll find curate
 - [Flutter Design Patterns](https://github.com/Deatsilence/flutter-design-patterns)
 - [Firebase tutorial-In hindi](https://www.youtube.com/playlist?list=PLFyjjoCMAPtxS6Cx1XSjCfxOxHQ4_e0sL)
 - [Firebase tutorial-In english](https://www.youtube.com/playlist?list=PLlvRDpXh1Se4wZWOWs8yapI8AS_fwDHzf)
+- [Flutter BLOC With Equtable(Youtube)](https://www.youtube.com/watch?v=xPbPMsddgOw)
+- [Flutter BLOC With Equtable(Medium)](https://medium.com/@nandhuraj/simplify-state-comparison-in-flutter-with-the-equatable-package-a1cff9412579)
+  
 
 💡 I hope this will be helpful for all Flutter Developers. Don't forget to follow [DevDiariesWithVee](https://www.instagram.com/devdiaries_with_vee/).
 
